@@ -1,5 +1,5 @@
 {
-  "name": "budget-app",
+  "name": "budgetingoffline",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -13,20 +13,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/mlbarre/budgetingoffline.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/mlbarre/budgetingoffline.git"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/mlbarre/budgetingoffline#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.3",
     "mongoose": "^5.13.14",
     "morgan": "^1.9.1",
     "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4"
+  },
+  "devDependencies": {
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
