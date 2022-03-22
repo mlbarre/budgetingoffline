@@ -1,4 +1,4 @@
-# welcome to Budgeting Offline, a budget app with offline functionality
+# Welcome to Budgeting Offline, a budget app with offline functionality!
 
 ## description
 This lovely website includes a budget tracker to keep track of expenses either deposits or deductions. An added bonus about this webpage is the tracker has offline functionality, meaning you'll be able to input or subtract funds without a stable internet connection and it will still save the transactions you input. Neat!
