@@ -22,4 +22,4 @@ this project doesn't include jest to be tested.
 ## repo & deployment
 * ( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ )
 * [repository](https://github.com/mlbarre/budgetingoffline)
-* [heroku deploy](https://damp-ravine-93214.herokuapp.com/)
+* [heroku deploy](https://pacific-brook-30465.herokuapp.com/)
